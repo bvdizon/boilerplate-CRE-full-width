@@ -1,0 +1,21 @@
+.cre {
+	&__btn {
+		text-decoration: none;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		padding: 1rem 3rem;
+		display: inline-block;
+		border-radius: 1000rem;
+	}
+
+	&__btn--red {
+		background: linear-gradient(90deg, #b40101 30%, #cf0101 70%);
+		border: 1px solid #b11107;
+		color: #fff;
+	}
+
+	&__btn--red:hover {
+		color: #b11107;
+		background: transparent;
+	}
+}

@@ -1,0 +1,27 @@
+<!-- To remove extra white space on the left side -->
+<script>
+window.addEventListener('load', () => {
+        document.getElementById('content').classList.remove('column');
+    })
+</script>
+
+
+
+//==================================================
+    <!-- Insert Custom Styles in the header -->
+    <script>
+    var css = '';
+        var head = document.querySelector("head");
+        var style = document.createElement('style');
+
+        head.appendChild(style);
+
+        style.type = 'text/css';
+
+        if (style.styleSheet) {
+            // This is required for IE8 and below.
+            style.styleSheet.cssText = css;
+        } else {
+            style.appendChild(document.createTextNode(css));
+        }
+    </script>
