@@ -18,4 +18,19 @@
 		color: #b11107;
 		background: transparent;
 	}
+
+	&__btn--outline {
+		text-decoration: none;
+		text-transform: uppercase;
+		border: 2px solid #b11107;
+		color: #b11107;
+		font-weight: 700;
+		padding: 1rem 3rem;
+	}
+
+	&__btn--outline:hover {
+		border: 2px solid #fff;
+		background-color: #b11107;
+		color: #fff;
+	}
 }

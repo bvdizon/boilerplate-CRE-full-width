@@ -1,0 +1,29 @@
+.cre-card {
+	text-align: center;
+	padding: 0 1rem;
+
+	@media screen and (min-width: 1200px) {
+		padding: 0 2rem;
+	}
+
+	h3 {
+		font-size: 1.2rem;
+		font-weight: 500;
+	}
+
+	&__text {
+		p {
+			font-size: 0.8rem;
+		}
+	}
+
+	div {
+		min-height: 130px;
+	}
+}
+
+.cre-card-container > * + * {
+	@media screen and (min-width: 1024px) {
+		border-left: 1px solid rgba(89, 95, 117, 0.1);
+	}
+}

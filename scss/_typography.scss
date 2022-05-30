@@ -8,11 +8,31 @@
 	&-center {
 		text-align: center;
 	}
+
+	&-right {
+		text-align: right;
+	}
 }
 
 .my {
 	&-1 {
 		margin-top: 0.25rem; /* 4px */
 		margin-bottom: 0.25rem; /* 4px */
+	}
+	&-2 {
+		margin-top: 5rem;
+		margin-bottom: 5rem;
+	}
+}
+
+.mb {
+	&-1 {
+		margin-bottom: 1rem;
+	}
+	&-2 {
+		margin-bottom: 2rem;
+	}
+	&-5 {
+		margin-bottom: 5rem;
 	}
 }
