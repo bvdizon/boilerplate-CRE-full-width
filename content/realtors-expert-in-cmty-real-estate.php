@@ -179,8 +179,8 @@
         <span class="close">&times;</span>
         <div class="modal-body">
             <div class="modal-body--text">
-                <h2>I want help to supercharge my conversion rates</h2>
-                <p>Pop in your details and we'll get back to you asap to schedule a call.</p>
+                <h2>I want help to reach my real estate goals.</h2>
+                <p>Please let us know if you are buying, selling, both or just want to talk about the current market.</p>
                 <div>
                     <!-- Testimonial #1 -->
                     <div class="mySlides-1 fade-1">
