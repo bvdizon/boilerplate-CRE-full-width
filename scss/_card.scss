@@ -27,3 +27,33 @@
 		border-left: 1px solid rgba(89, 95, 117, 0.1);
 	}
 }
+
+// Agent Cards
+.cre-agent-card {
+	&__text > * {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		text-align: center;
+	}
+
+	h3 {
+		// font-size: 1.2rem;
+		margin: 1rem 0;
+	}
+
+	&__text-subtitle {
+		display: block;
+		font-size: 1rem;
+	}
+
+	img {
+		display: block;
+		width: 100%;
+		max-width: 350px;
+		margin: 0 auto;
+		max-height: 400px;
+		object-fit: cover;
+		object-position: top center;
+	}
+}

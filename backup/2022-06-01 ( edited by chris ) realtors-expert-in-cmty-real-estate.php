@@ -7,18 +7,19 @@
             <p class="my-1">No tricks, just friendly advice</p>
         </div>
     </div>
-    <div class="realtor-cmty__header--image"><img src="https://www.real-estate.ca/uploads/agent-1/agents/chris-audette-on-a-chair.jpg" alt="Christopher Audette" data-aos="zoom-out-left" data-aos-delay="400" />
+    <div class="realtor-cmty__header--image"><img src="/uploads/agent-1/the-group/bio-page/chris-duffy.png" alt="" data-aos="zoom-out-left" data-aos-delay="400" />
         <div class="shoutout shoutout--1" data-aos="fade-right" data-aos-delay="250">
-            <p>Re/Max Top Teams - Families Helped. <br>Average 4.9 / 5 Star Client Reviews. </p>
-            <img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/stats.png" alt="" />
+            <p>Nearly 140 Real Estate transactions</p>
+            <img src="/uploads/agent-1/icons/stats.png" alt="" />
         </div>
         <div class="shoutout shoutout--2" data-aos="fade-right" data-aos-delay="350">
-            <p>Over 2,040 Real Estate Transactions and nearly $880 Million in production.</p>
-            <img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/stats.png" alt="" />
+            <p>Over $57 Million in production.</p>
+            <img src="/uploads/agent-1/icons/stats.png" alt="" />
         </div>
     </div>
 </div>
 <!-- @end: Hero Section -->
+<p>&nbsp;</p>
 <!-- Testimonials Section -->
 <div class="realtor-cmty__testimonials">
     <h2 class="aos-init aos-animate text-center mb-5" data-aos="zoom-in">What People Are Saying</h2>
@@ -27,13 +28,13 @@
             <!-- Testimonial #1 -->
             <div class="mySlides fade">
                 <div class="cre-testimonial">
-                    <div class="text-center"><img src="https://www.calgary-real-estate.com/uploads/agent-1/the-group/reviews/leslie-fillion.png" alt="" /></div>
-                    <div class="cre-testimonial__content"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
+                    <div class="text-center"><img src="/uploads/agent-1/the-group/reviews/leslie-fillion.png" alt="" /></div>
+                    <div class="cre-testimonial__content"><img src="/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
                         <div>
                             <p class="cre-testimonial__review text-center">Jenn is super knowledgeable, very professional and definitely goes the extra mile! I would highly recommend her to any of my family or friends considering a move.</p>
                             <p class="cre-testimonial__reviewer text-center">&mdash; <span style="font-weight: bold;">Leslie Fillion</span></p>
                         </div>
-                        <div class="text-right"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
+                        <div class="text-right"><img src="/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
                     </div>
                 </div>
             </div>
@@ -41,13 +42,13 @@
             <!-- Testimonial #2 -->
             <div class="mySlides fade">
                 <div class="cre-testimonial">
-                    <div class="text-center"><img src="https://www.calgary-real-estate.com/uploads/agent-1/the-group/reviews/christopher-bower.png" alt="" /></div>
-                    <div class="cre-testimonial__content"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
+                    <div class="text-center"><img src="/uploads/agent-1/the-group/reviews/christopher-bower.png" alt="" /></div>
+                    <div class="cre-testimonial__content"><img src="/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
                         <div>
                             <p class="cre-testimonial__review text-center">Sarah Walczak was amazing throughout the sale of my Father's home. She ensured we were aware of every step in the process and was honest in regards to what we could expect regarding wait times and costs. She made the whole process more relaxed and understandable. We will be asking her to guide us through our next home sale as well.</p>
                             <p class="cre-testimonial__reviewer text-center">&mdash; <span style="font-weight: bold;">Chris Bower</span></p>
                         </div>
-                        <div class="text-right"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
+                        <div class="text-right"><img src="/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
                     </div>
                 </div>
             </div>
@@ -55,13 +56,13 @@
             <!-- Testimonial #3 -->
             <div class="mySlides fade">
                 <div class="cre-testimonial">
-                    <div class="text-center"><img src="https://www.calgary-real-estate.com/uploads/agent-1/the-group/reviews/sandy-erdos.png" alt="" /></div>
-                    <div class="cre-testimonial__content"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
+                    <div class="text-center"><img src="/uploads/agent-1/the-group/reviews/sandy-erdos.png" alt="" /></div>
+                    <div class="cre-testimonial__content"><img src="/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
                         <div>
                             <p class="cre-testimonial__review text-center">Chris was fantastic to work with. Very thorough with great advice and creative ideas. This was the quickest and easiest real estate transaction I&rsquo;ve experienced. Chris is honest and very easy to work with. I would highly recommend going with Chris if you have real estate requirements.</p>
                             <p class="cre-testimonial__reviewer text-center">&mdash; <span style="font-weight: bold;">Sandy Erdos</span></p>
                         </div>
-                        <div class="text-right"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
+                        <div class="text-right"><img src="/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
                     </div>
                 </div>
             </div>
@@ -72,64 +73,16 @@
     <div class="text-center my-2" data-aos="zoom-in" data-aos-delay="500"><a class="cre__btn--outline" href="https://www.google.com/search?q=the+group+at+remax+first&amp;rlz=1C1GCEA_enCA835CA835&amp;oq=the+group+at+remax+first+&amp;aqs=chrome..69i57j69i59j69i60l3.7366j0j4&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x537176b2fcd3357f:0xe4e4a768ee7a63d4,1,,," target="_blank" rel="noindex noopener nofollow noreferrer">More Client Testimonials</a></div>
 </div>
 <!-- @end: Testimonials Section -->
-
-<!-- Agents Section -->
-<div class="realtor-cmty__agents section-spacer">
-    <h2 class="aos-init aos-animate text-center" data-aos="zoom-in">Sell with a Top Rated Re/Max Agent in Calgary</h2>
-    <p class="subtitle-h1 text-center mb-5 max-width-title">The Group at Re/Max First agents sell home for $XXXXX more on average..</p>
-    <div class="col-grid-3">
-        <div class="cre-agent-card">
-            <a href="/christopher-audette.php">
-                <img src="https://www.calgary-real-estate.com/uploads/agent-1/Agent Images/christopher-audette-headshot-grey-bg.jpg" alt="Christopher Audette">
-            </a>
-            <div class="cre-agent-card__text">
-                <h3>
-                    Christopher Audette
-                    <span class="cre-agent-card__text-subtitle">Associate Broker, Team Lead</span>
-                </h3>
-                <p class="mb-1">Call: <a href=" tel:4034650060">(403) 465-0060</a></p>
-                <p><strong>5.0</strong> <span style="color: #FFB92E;">&starf;&starf;&starf;&starf;&starf;</span> | 3 Reviews</p>
-            </div>
-        </div>
-        <div class="cre-agent-card">
-            <a href="/sarah-walczak.php">
-                <img src="https://www.calgary-real-estate.com/thumbs/428x428/r/uploads/agents/51964215.jpg" alt="Sarah Walczak">
-            </a>
-            <div class="cre-agent-card__text">
-                <h3>
-                    Sarah Walczak
-                    <span class="cre-agent-card__text-subtitle">REALTOR&reg; since 2009</span>
-                </h3>
-                <p class="mb-1">Call: <a href=" tel:4032000180">(403) 200-0180</a></p>
-                <p><strong>4.99</strong> <span style="color: #FFB92E;">&starf;&starf;&starf;&starf;&starf;</span> | 25 Reviews</p>
-            </div>
-        </div>
-        <div class="cre-agent-card">
-            <a href="/may-davidson.php">
-                <img src="https://www.calgary-real-estate.com/thumbs/428x428/r/uploads/agents/122994833.jpg" alt="May Davidson">
-            </a>
-            <div class="cre-agent-card__text">
-                <h3>
-                    May Davidson
-                    <span class="cre-agent-card__text-subtitle">REALTOR&reg; since 2005</span>
-                </h3>
-                <p class="mb-1">Call: <a href=" tel:4032000180">(403) 200-0180</a></p>
-                <p><strong>5.0</strong> <span style="color: #FFB92E;">&starf;&starf;&starf;&starf;&starf;</span> | 34 Reviews</p>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- @end: Agents Section -->
-
+<p>&nbsp;</p>
 <!-- Buying Process -->
 <div class="section-spacer">
-    <h2 class="aos-init aos-animate text-center max-width-title" data-aos="zoom-in">Use our award winning property marketing and home selling processes to your advantage</h2>
-    <p class="subtitle-h1 text-center mb-5 max-width-title">4 simple steps to&nbsp;selling your home for the highest price and meeting your ultimate real estate goals.</p>
+    <h2 class="aos-init aos-animate text-center" data-aos="zoom-in">Use our award winning property marketing and home selling processes to your advantage</h2>
+    <p class="subtitle-h1 text-center mb-5">4 simple steps to&nbsp;selling your home for the highest price and meeting your ultimate real estate goals.</p>
     <div class="col-grid-4">
         <!-- Card #1 -->
         <div class="cre-card" data-aos="fade-up" data-aos-delay="300">
             <p class="mb-2"><strong>STEP #1</strong></p>
-            <div class="cre-card__image"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/handshake.png" alt="" width="110" height="110" /></div>
+            <div class="cre-card__image"><img src="/uploads/agent-1/icons/handshake.png" alt="" width="110" height="110" /></div>
             <div class="cre-card__text">
                 <h3>Seller Strategy Session</h3>
                 <p>It starts a few months before you wish to sell, with an open and honest conversation about what your real estate goals are, the current potential value of your property, and how we can maximize it.</p>
@@ -139,7 +92,7 @@
         <!-- Card #2 -->
         <div class="cre-card" data-aos="fade-up" data-aos-delay="400">
             <p class="mb-2"><strong>STEP #2</strong></p>
-            <div class="cre-card__image"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/home.png" alt="" width="100" height="100" /></div>
+            <div class="cre-card__image"><img src="/uploads/agent-1/icons/home.png" alt="" width="100" height="100" /></div>
             <div class="cre-card__text">
                 <h3>Marketing Co-ordination</h3>
                 <p>The marketing co-ordination begins with the property itself and properly preparing it for the marketing&nbsp;materials to be produced and for it to show&nbsp;to its best&nbsp;to potential buyers.&nbsp;</p>
@@ -149,7 +102,7 @@
         <!-- Card #3 -->
         <div class="cre-card" data-aos="fade-up" data-aos-delay="500">
             <p class="mb-2"><strong>STEP #3</strong></p>
-            <div class="cre-card__image"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/loupe.png" alt="" width="100" height="100" /></div>
+            <div class="cre-card__image"><img src="/uploads/agent-1/icons/loupe.png" alt="" width="100" height="100" /></div>
             <div class="cre-card__text">
                 <h3>Marketing to Buyers</h3>
                 <p>Ongoing marketing, negotiation and ultimate success ultimately happens from monitoring the entire process and applying certain tactics and strategies at KEY moments in the process.</p>
@@ -159,7 +112,7 @@
         <!-- Card #4 -->
         <div class="cre-card" data-aos="fade-up" data-aos-delay="600">
             <p class="mb-2"><strong>STEP #4</strong></p>
-            <div class="cre-card__image"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/sold.png" alt="" width="100" height="100" /></div>
+            <div class="cre-card__image"><img src="/uploads/agent-1/icons/sold.png" alt="" width="100" height="100" /></div>
             <div class="cre-card__text">
                 <h3>Sold for Top Dollar</h3>
                 <p>Arriving at a top dollar&nbsp;sale with terms and conditions favorable to you, means properly prepping the entire process from front to back. That is why were here.</p>
@@ -170,7 +123,7 @@
     <div class="text-center my-2" data-aos="zoom-in" data-aos-delay="500"><a class="cre__btn--outline">Request&nbsp;a Seller Strategy Session</a></div>
 </div>
 <!-- @end: Buying Process -->
-
+<p>&nbsp;</p>
 <!-- USP -->
 <div>
     <h2 class="aos-init aos-animate text-center" data-aos="zoom-in">Why you need a top real estate agent in Calgary</h2>
@@ -191,6 +144,7 @@
     </div>
 </div>
 <!-- @end: USP -->
+<p>&nbsp;</p>
 <!-- The Modal -->
 <div id="myModal" class="modal">
     <!-- Modal content -->
@@ -203,13 +157,13 @@
                     <!-- Testimonial #1 -->
                     <div class="mySlides-1 fade-1">
                         <div class="cre-testimonial cre-testimonial--full-width">
-                            <div class="text-center"><img src="https://www.calgary-real-estate.com/uploads/agent-1/the-group/reviews/leslie-fillion.png" alt="" /></div>
-                            <div class="cre-testimonial__content"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
+                            <div class="text-center"><img src="/uploads/agent-1/the-group/reviews/leslie-fillion.png" alt="" /></div>
+                            <div class="cre-testimonial__content"><img src="/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
                                 <div>
                                     <p class="cre-testimonial__review text-center">Jenn is super knowledgeable, very professional and definitely goes the extra mile! I would highly recommend her to any of my family or friends considering a move.</p>
                                     <p class="cre-testimonial__reviewer text-center">&mdash; <span style="font-weight: bold;">Leslie Fillion</span></p>
                                 </div>
-                                <div class="text-right"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
+                                <div class="text-right"><img src="/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
                             </div>
                         </div>
                     </div>
@@ -217,13 +171,13 @@
                     <!-- Testimonial #2 -->
                     <div class="mySlides-1 fade-1">
                         <div class="cre-testimonial cre-testimonial--full-width">
-                            <div class="text-center"><img src="https://www.calgary-real-estate.com/uploads/agent-1/the-group/reviews/christopher-bower.png" alt="" /></div>
-                            <div class="cre-testimonial__content"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
+                            <div class="text-center"><img src="/uploads/agent-1/the-group/reviews/christopher-bower.png" alt="" /></div>
+                            <div class="cre-testimonial__content"><img src="/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
                                 <div>
                                     <p class="cre-testimonial__review text-center">Sarah Walczak was amazing throughout the sale of my Father's home. She ensured we were aware of every step in the process and was honest in regards to what we could expect regarding wait times and costs. She made the whole process more relaxed and understandable. We will be asking her to guide us through our next home sale as well.</p>
                                     <p class="cre-testimonial__reviewer text-center">&mdash; <span style="font-weight: bold;">Chris Bower</span></p>
                                 </div>
-                                <div class="text-right"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
+                                <div class="text-right"><img src="/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
                             </div>
                         </div>
                     </div>
@@ -231,13 +185,13 @@
                     <!-- Testimonial #3 -->
                     <div class="mySlides-1 fade-1">
                         <div class="cre-testimonial cre-testimonial--full-width">
-                            <div class="text-center"><img src="https://www.calgary-real-estate.com/uploads/agent-1/the-group/reviews/sandy-erdos.png" alt="" /></div>
-                            <div class="cre-testimonial__content"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
+                            <div class="text-center"><img src="/uploads/agent-1/the-group/reviews/sandy-erdos.png" alt="" /></div>
+                            <div class="cre-testimonial__content"><img src="/uploads/agent-1/icons/open-quote.png" alt="" width="32" height="32" />
                                 <div>
                                     <p class="cre-testimonial__review text-center">Chris was fantastic to work with. Very thorough with great advice and creative ideas. This was the quickest and easiest real estate transaction I&rsquo;ve experienced. Chris is honest and very easy to work with. I would highly recommend going with Chris if you have real estate requirements.</p>
                                     <p class="cre-testimonial__reviewer text-center">&mdash; <span style="font-weight: bold;">Sandy Erdos</span></p>
                                 </div>
-                                <div class="text-right"><img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
+                                <div class="text-right"><img src="/uploads/agent-1/icons/close-quote.png" alt="" width="32" height="32" /></div>
                             </div>
                         </div>
                     </div>
@@ -250,6 +204,7 @@
     </div>
 </div>
 <!-- @end: The Modal -->
+<p>&nbsp;</p>
 <!-- Features Section -->
 <div class="realtor-cmty__features">
     <div class="feature-image-text section-spacer">
@@ -263,6 +218,7 @@
     <!-- @end feature-image-text -->
 </div>
 <!-- @end: Features Section -->
+<p>&nbsp;</p>
 <!-- FAQs Accordion -->
 <div class="realtor-cmty__accordion section-spacer">
     <h2 class="aos-init aos-animate text-center mb-5" data-aos="zoom-in">Why you need a top real estate agent in Calgary</h2>
@@ -296,7 +252,3 @@
 </div>
 <!-- @end: FAQs Accordion -->
 <div>#styles-realtors-expert-in-cmty-real-estate#</div>
-
-<!-- STOP: DO NOT COPY  -->
-<?php include 'content/styles-realtors-expert-in-cmty-real-estate.php'; ?>
-<!-- @end: STOP: DO NOT COPY  -->
