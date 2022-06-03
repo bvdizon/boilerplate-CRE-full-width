@@ -56,4 +56,17 @@
 		object-fit: cover;
 		object-position: top center;
 	}
+
+	&__icon-text {
+		display: grid;
+		grid-template-columns: 25px auto;
+		justify-content: center;
+		align-items: center;
+		gap: 0.5rem;
+
+		img {
+			width: 25px;
+			height: 25px;
+		}
+	}
 }

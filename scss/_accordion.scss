@@ -41,6 +41,11 @@
 		letter-spacing: 0;
 		text-transform: initial;
 		font-family: poppins;
+
+		@media screen and (max-width: 768px) {
+			display: inline-block;
+			width: 95%;
+		}
 	}
 	.accordion button .icon {
 		display: inline-block;
