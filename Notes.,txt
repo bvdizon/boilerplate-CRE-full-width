@@ -1,3 +1,11 @@
+//==================================================
+RE/MAX First Colors
+#B11107 --- red
+#01478F --- blue
+
+
+
+//==================================================
 <!-- To remove extra white space on the left side -->
 <script>
 window.addEventListener('load', () => {

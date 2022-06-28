@@ -17,7 +17,8 @@
     <meta name="google-site-verification" content="6IGyjQJahR6RVmcLLcj-k7FGbcyBns8fZpaagLw8Sm4" />
     <!-- Original Styles -->
     <link rel="stylesheet" href="./css/base-styles.css">
-    <link rel="stylesheet" href="./css/realtor-cmty.css">
+    <!-- <link rel="stylesheet" href="./css/realtor-cmty.css"> -->
+    <link rel="stylesheet" href="./css/contact.css">
 </head>
 
 <body class="cms pg-agent-page-sandbox REW\Theme\Enterprise\Theme kw-inspired creb tpl-basic">
