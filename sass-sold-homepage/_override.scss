@@ -1,0 +1,15 @@
+// overrides
+.quicksearch {
+	display: none;
+}
+
+#body {
+	.container {
+		width: 100%;
+		padding: 0 !important;
+	}
+
+	#content {
+		margin: 0 !important;
+	}
+}

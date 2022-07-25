@@ -2,10 +2,7 @@
 <?php require 'template-parts/header.php'; ?>
 
 <!-- Entry Content -->
-<?php include 'content/contact.php'; ?>
-
-<!-- To Load Scripts - Lazyload, etc -->
-<?php include 'content/styles-realtors-expert-in-cmty-real-estate.php'; ?>
+<?php include 'content/sold-homepage.php'; ?>
 
 <!-- Footer Part File -->
 <?php require 'template-parts/footer.php'; ?>

@@ -1,0 +1,115 @@
+/***************************
+    TABLE OF CONTENT
+    - Utilities --- Text 
+    - Utilities --- Spacing
+    - Utilties --- Buttons
+    - Utilties --- Others
+***************************/
+
+.soldcre-wrapper {
+	width: 100%;
+	max-width: 1260px;
+	padding: 0 24px;
+	margin: 0 auto;
+}
+
+// Utilities --- Text
+.h1 {
+	font-size: 48px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-light {
+	font-weight: 300 !important;
+}
+
+.text-bold {
+	font-weight: 700 !important;
+}
+
+.text-white {
+	color: #fff !important;
+}
+
+.text-size-sm {
+	font-size: 20px;
+}
+
+.text-size-md {
+	font-size: 24px;
+}
+
+.text-feature {
+	font-size: 24px;
+	font-weight: 300;
+	line-height: 1.5;
+}
+
+.max-width-lg {
+	width: 100%;
+	max-width: 980px;
+	margin: 0 auto;
+}
+
+.line-height-xs {
+	line-height: 1.2;
+}
+
+.line-height-sm {
+	line-height: 1.8;
+}
+
+.d-block {
+	display: block;
+}
+
+.divider {
+	width: 150px;
+	height: 1px;
+	display: inline-block;
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+// Utilities --- Spacing
+.my-sm {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+.mb-xs {
+	margin-bottom: 1rem;
+}
+
+.mb-sm {
+	margin-bottom: 3rem;
+}
+
+.py-sm {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.px-xs {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.py-md {
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+}
+
+// Utilties --- Others
+.order-lg-1 {
+	@media screen and (min-width: 1024px) {
+		order: 1;
+	}
+}
+
+.box-shadow-1 {
+	box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}

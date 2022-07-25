@@ -1,0 +1,26 @@
+.sold-feature {
+	text-align: center;
+	display: flex;
+	gap: 2rem;
+	margin-bottom: 5rem;
+	flex-direction: column;
+
+	&__img {
+		margin-top: 5rem;
+	}
+
+	@media screen and (min-width: 1024px) {
+		text-align: left;
+		align-items: center;
+		flex-direction: row;
+
+		&__text {
+			width: calc(40% - 2rem);
+		}
+
+		&__img {
+			width: calc(60% - 2rem);
+			margin-top: 0;
+		}
+	}
+}
