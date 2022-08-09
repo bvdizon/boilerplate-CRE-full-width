@@ -18,7 +18,8 @@
     <!-- Original Styles -->
     <link rel="stylesheet" href="./css/base-styles.css">
     <!-- <link rel="stylesheet" href="./css/realtor-cmty.css"> -->
-    <link rel="stylesheet" href="./css-sold-homepage/sold-home.css">
+    <!-- <link rel="stylesheet" href="./css-sold-homepage/sold-home.css"> -->
+    <link rel="stylesheet" href="css-sandbox/sandbox.css">
 </head>
 
 <body class="cms pg-agent-page-sandbox REW\Theme\Enterprise\Theme kw-inspired creb tpl-basic">
